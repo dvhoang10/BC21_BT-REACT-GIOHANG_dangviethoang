@@ -1,0 +1,3 @@
+export const ADD_PRODUCT = "THEM_SAN_PHAM";
+export const VIEW_DETAIL = "XEM_CHI_TIET";
+export const CHANGE_QUANTITY = "CHANGE_QUANTITY";

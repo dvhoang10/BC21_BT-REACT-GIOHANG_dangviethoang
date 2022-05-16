@@ -1,10 +1,15 @@
 import "./App.css";
-import Cart from "./components/qlsp/Cart";
+import CartRedux from "./components/GioHangRedux/CartRedux";
+// import Cart from "./components/GioHang/Cart";
 
 function App() {
   return (
     <div>
-      <Cart></Cart>
+      {
+        /* <Cart></Cart> */
+
+        <CartRedux></CartRedux>
+      }
     </div>
   );
 }
